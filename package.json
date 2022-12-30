@@ -6,7 +6,7 @@
   "dependencies": {
     "g": "^2.0.1",
     "http-server": "^0.12.1",
-    "mocha": "^7.1.1",
+    "mocha": "^10.2.0",
     "npm": "^6.14.3",
     "surge": "^0.21.3",
     "mocha-junit-reporter": "^2.0.0"
